@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/avi629/leet_codes/tree/master/2427-number-of-common-factors) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/avi629/leet_codes/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -41,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/avi629/leet_codes/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/avi629/leet_codes/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/avi629/leet_codes/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 <!---LeetCode Topics End-->

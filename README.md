@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/avi629/leet_codes/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/avi629/leet_codes/tree/master/0048-rotate-image) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/avi629/leet_codes/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/avi629/leet_codes/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
@@ -56,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/avi629/leet_codes/tree/master/0048-rotate-image) |
+## Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/avi629/leet_codes/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/avi629/leet_codes/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->

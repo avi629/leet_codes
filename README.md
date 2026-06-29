@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/avi629/leet_codes/tree/master/1021-remove-outermost-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/avi629/leet_codes/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Two Pointers
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/avi629/leet_codes/tree/master/1021-remove-outermost-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/avi629/leet_codes/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |

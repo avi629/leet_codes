@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/avi629/leet_codes/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/avi629/leet_codes/tree/master/0048-rotate-image) |
+| [0682-baseball-game](https://github.com/avi629/leet_codes/tree/master/0682-baseball-game) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/avi629/leet_codes/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/avi629/leet_codes/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/avi629/leet_codes/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/avi629/leet_codes/tree/master/1021-remove-outermost-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/avi629/leet_codes/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/avi629/leet_codes/tree/master/0231-power-of-two) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/avi629/leet_codes/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->

@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/avi629/leet_codes/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/avi629/leet_codes/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/avi629/leet_codes/tree/master/0231-power-of-two) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/avi629/leet_codes/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1154-day-of-the-year](https://github.com/avi629/leet_codes/tree/master/1154-day-of-the-year) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/avi629/leet_codes/tree/master/0070-climbing-stairs) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/avi629/leet_codes/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Bit Manipulation
 |  |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/avi629/leet_codes/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/avi629/leet_codes/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

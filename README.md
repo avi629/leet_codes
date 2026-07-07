@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/avi629/leet_codes/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/avi629/leet_codes/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/avi629/leet_codes/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/avi629/leet_codes/tree/master/0231-power-of-two) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/avi629/leet_codes/tree/master/0043-multiply-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/avi629/leet_codes/tree/master/1021-remove-outermost-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/avi629/leet_codes/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1154-day-of-the-year](https://github.com/avi629/leet_codes/tree/master/1154-day-of-the-year) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/avi629/leet_codes/tree/master/0043-multiply-strings) |
 | [0682-baseball-game](https://github.com/avi629/leet_codes/tree/master/0682-baseball-game) |
 ## Backtracking
 |  |

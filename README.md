@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/avi629/leet_codes/tree/master/0043-multiply-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/avi629/leet_codes/tree/master/1021-remove-outermost-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/avi629/leet_codes/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/avi629/leet_codes/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1154-day-of-the-year](https://github.com/avi629/leet_codes/tree/master/1154-day-of-the-year) |
 | [2000-reverse-prefix-of-word](https://github.com/avi629/leet_codes/tree/master/2000-reverse-prefix-of-word) |
 ## Two Pointers
@@ -105,11 +106,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/avi629/leet_codes/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/avi629/leet_codes/tree/master/1021-remove-outermost-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/avi629/leet_codes/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/avi629/leet_codes/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2000-reverse-prefix-of-word](https://github.com/avi629/leet_codes/tree/master/2000-reverse-prefix-of-word) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/avi629/leet_codes/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/avi629/leet_codes/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Recursion
 |  |
@@ -143,4 +146,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/avi629/leet_codes/tree/master/0055-jump-game) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/avi629/leet_codes/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->

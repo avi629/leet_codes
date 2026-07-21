@@ -9,15 +9,23 @@ class Solution(object):
         :type head: Optional[ListNode]
         :rtype: Optional[ListNode]
         """
-        count = 0
-        current = head 
-        
-        while current is not None:
-            count += 1
-            current = current.next    # count the linked list
+        # count = 0
+        # current = head       
+        # while current is not None:
+        #     count += 1
+        #     current = current.next    # count the linked list
 
-        result = head
-        for i in range( 0 , count // 2):     
-            result = result.next 
+        # result = head
+        # for i in range( 0 , count // 2):     
+        #     result = result.next 
         
-        return result
+        # return result
+
+###################################################
+        slow = head
+        fast = head
+        while fast is not None and fast.next is not None:
+            slow = slow.next
+            fast = fast.next.next
+
+        return slow

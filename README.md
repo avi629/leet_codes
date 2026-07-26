@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/avi629/leet_codes/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/avi629/leet_codes/tree/master/0217-contains-duplicate) |
 | [0575-distribute-candies](https://github.com/avi629/leet_codes/tree/master/0575-distribute-candies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/avi629/leet_codes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/avi629/leet_codes/tree/master/0682-baseball-game) |
 | [1331-rank-transform-of-an-array](https://github.com/avi629/leet_codes/tree/master/1331-rank-transform-of-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/avi629/leet_codes/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/avi629/leet_codes/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/avi629/leet_codes/tree/master/0231-power-of-two) |
 | [0507-perfect-number](https://github.com/avi629/leet_codes/tree/master/0507-perfect-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/avi629/leet_codes/tree/master/0628-maximum-product-of-three-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/avi629/leet_codes/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1154-day-of-the-year](https://github.com/avi629/leet_codes/tree/master/1154-day-of-the-year) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/avi629/leet_codes/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/avi629/leet_codes/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/avi629/leet_codes/tree/master/0217-contains-duplicate) |
+| [0628-maximum-product-of-three-numbers](https://github.com/avi629/leet_codes/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/avi629/leet_codes/tree/master/1331-rank-transform-of-an-array) |
 | [1859-sorting-the-sentence](https://github.com/avi629/leet_codes/tree/master/1859-sorting-the-sentence) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/avi629/leet_codes/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |

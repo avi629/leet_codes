@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/avi629/leet_codes/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/avi629/leet_codes/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/avi629/leet_codes/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/avi629/leet_codes/tree/master/0263-ugly-number) |
 | [0507-perfect-number](https://github.com/avi629/leet_codes/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/avi629/leet_codes/tree/master/0628-maximum-product-of-three-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/avi629/leet_codes/tree/master/1071-greatest-common-divisor-of-strings) |

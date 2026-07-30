@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/avi629/leet_codes/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/avi629/leet_codes/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/avi629/leet_codes/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/avi629/leet_codes/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/avi629/leet_codes/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/avi629/leet_codes/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/avi629/leet_codes/tree/master/3024-type-of-triangle) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/avi629/leet_codes/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/avi629/leet_codes/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1859-sorting-the-sentence](https://github.com/avi629/leet_codes/tree/master/1859-sorting-the-sentence) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/avi629/leet_codes/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/avi629/leet_codes/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/avi629/leet_codes/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/avi629/leet_codes/tree/master/3024-type-of-triangle) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/avi629/leet_codes/tree/master/0048-rotate-image) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/avi629/leet_codes/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Stack
 |  |
 | ------- |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/avi629/leet_codes/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/avi629/leet_codes/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/avi629/leet_codes/tree/master/0682-baseball-game) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/avi629/leet_codes/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2974-minimum-number-game](https://github.com/avi629/leet_codes/tree/master/2974-minimum-number-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/avi629/leet_codes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
@@ -181,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/avi629/leet_codes/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/avi629/leet_codes/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2974-minimum-number-game](https://github.com/avi629/leet_codes/tree/master/2974-minimum-number-game) |
 ## Tree
 |  |

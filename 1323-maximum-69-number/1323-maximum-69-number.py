@@ -17,10 +17,10 @@ class Solution(object):
         place = 1
         six_place = 0
         while num != 0:
-            digit = num % 10
+            digit = num % 10   #6
             if digit == 6:
                 six_place = place
-            place *= 10
+            place = place * 10
             num = num // 10
         final_answer = original + (3 * six_place)
         return final_answer

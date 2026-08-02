@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/avi629/leet_codes/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/avi629/leet_codes/tree/master/2427-number-of-common-factors) |
 | [2651-calculate-delayed-arrival-time](https://github.com/avi629/leet_codes/tree/master/2651-calculate-delayed-arrival-time) |
+| [2739-total-distance-traveled](https://github.com/avi629/leet_codes/tree/master/2739-total-distance-traveled) |
 | [3024-type-of-triangle](https://github.com/avi629/leet_codes/tree/master/3024-type-of-triangle) |
 | [3536-maximum-product-of-two-digits](https://github.com/avi629/leet_codes/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/avi629/leet_codes/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/avi629/leet_codes/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/avi629/leet_codes/tree/master/0682-baseball-game) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/avi629/leet_codes/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2739-total-distance-traveled](https://github.com/avi629/leet_codes/tree/master/2739-total-distance-traveled) |
 | [2974-minimum-number-game](https://github.com/avi629/leet_codes/tree/master/2974-minimum-number-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/avi629/leet_codes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking

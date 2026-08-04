@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/avi629/leet_codes/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/avi629/leet_codes/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/avi629/leet_codes/tree/master/3024-type-of-triangle) |
+| [3731-find-missing-elements](https://github.com/avi629/leet_codes/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/avi629/leet_codes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/avi629/leet_codes/tree/master/1331-rank-transform-of-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/avi629/leet_codes/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/avi629/leet_codes/tree/master/2418-sort-the-people) |
+| [3731-find-missing-elements](https://github.com/avi629/leet_codes/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/avi629/leet_codes/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/avi629/leet_codes/tree/master/3024-type-of-triangle) |
 | [3536-maximum-product-of-two-digits](https://github.com/avi629/leet_codes/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/avi629/leet_codes/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/avi629/leet_codes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |

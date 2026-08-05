@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/avi629/leet_codes/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/avi629/leet_codes/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1154-day-of-the-year](https://github.com/avi629/leet_codes/tree/master/1154-day-of-the-year) |
+| [1332-remove-palindromic-subsequences](https://github.com/avi629/leet_codes/tree/master/1332-remove-palindromic-subsequences) |
 | [1859-sorting-the-sentence](https://github.com/avi629/leet_codes/tree/master/1859-sorting-the-sentence) |
 | [2000-reverse-prefix-of-word](https://github.com/avi629/leet_codes/tree/master/2000-reverse-prefix-of-word) |
 | [2351-first-letter-to-appear-twice](https://github.com/avi629/leet_codes/tree/master/2351-first-letter-to-appear-twice) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/avi629/leet_codes/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/avi629/leet_codes/tree/master/0088-merge-sorted-array) |
 | [0876-middle-of-the-linked-list](https://github.com/avi629/leet_codes/tree/master/0876-middle-of-the-linked-list) |
+| [1332-remove-palindromic-subsequences](https://github.com/avi629/leet_codes/tree/master/1332-remove-palindromic-subsequences) |
 | [2000-reverse-prefix-of-word](https://github.com/avi629/leet_codes/tree/master/2000-reverse-prefix-of-word) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/avi629/leet_codes/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/avi629/leet_codes/tree/master/3867-sum-of-gcd-of-formed-pairs) |

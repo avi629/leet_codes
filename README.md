@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/avi629/leet_codes/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/avi629/leet_codes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/avi629/leet_codes/tree/master/0682-baseball-game) |
+| [0908-smallest-range-i](https://github.com/avi629/leet_codes/tree/master/0908-smallest-range-i) |
 | [1331-rank-transform-of-an-array](https://github.com/avi629/leet_codes/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/avi629/leet_codes/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/avi629/leet_codes/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/avi629/leet_codes/tree/master/0263-ugly-number) |
 | [0507-perfect-number](https://github.com/avi629/leet_codes/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/avi629/leet_codes/tree/master/0628-maximum-product-of-three-numbers) |
+| [0908-smallest-range-i](https://github.com/avi629/leet_codes/tree/master/0908-smallest-range-i) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/avi629/leet_codes/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1154-day-of-the-year](https://github.com/avi629/leet_codes/tree/master/1154-day-of-the-year) |
 | [1323-maximum-69-number](https://github.com/avi629/leet_codes/tree/master/1323-maximum-69-number) |

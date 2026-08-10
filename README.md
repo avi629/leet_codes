@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/avi629/leet_codes/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/avi629/leet_codes/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/avi629/leet_codes/tree/master/2427-number-of-common-factors) |
+| [2485-find-the-pivot-integer](https://github.com/avi629/leet_codes/tree/master/2485-find-the-pivot-integer) |
 | [2651-calculate-delayed-arrival-time](https://github.com/avi629/leet_codes/tree/master/2651-calculate-delayed-arrival-time) |
 | [2739-total-distance-traveled](https://github.com/avi629/leet_codes/tree/master/2739-total-distance-traveled) |
 | [3024-type-of-triangle](https://github.com/avi629/leet_codes/tree/master/3024-type-of-triangle) |
@@ -231,4 +232,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/avi629/leet_codes/tree/master/0238-product-of-array-except-self) |
+| [2485-find-the-pivot-integer](https://github.com/avi629/leet_codes/tree/master/2485-find-the-pivot-integer) |
 <!---LeetCode Topics End-->

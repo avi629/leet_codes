@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/avi629/leet_codes/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/avi629/leet_codes/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/avi629/leet_codes/tree/master/0217-contains-duplicate) |
 | [0575-distribute-candies](https://github.com/avi629/leet_codes/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/avi629/leet_codes/tree/master/0771-jewels-and-stones) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/avi629/leet_codes/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/avi629/leet_codes/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/avi629/leet_codes/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/avi629/leet_codes/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/avi629/leet_codes/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/avi629/leet_codes/tree/master/0263-ugly-number) |
 | [0507-perfect-number](https://github.com/avi629/leet_codes/tree/master/0507-perfect-number) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/avi629/leet_codes/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/avi629/leet_codes/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/avi629/leet_codes/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/avi629/leet_codes/tree/master/0202-happy-number) |
 | [0876-middle-of-the-linked-list](https://github.com/avi629/leet_codes/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/avi629/leet_codes/tree/master/0905-sort-array-by-parity) |
 | [1332-remove-palindromic-subsequences](https://github.com/avi629/leet_codes/tree/master/1332-remove-palindromic-subsequences) |
@@ -240,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/avi629/leet_codes/tree/master/0238-product-of-array-except-self) |
 | [2485-find-the-pivot-integer](https://github.com/avi629/leet_codes/tree/master/2485-find-the-pivot-integer) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/avi629/leet_codes/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->

@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/avi629/leet_codes/tree/master/0682-baseball-game) |
 | [0905-sort-array-by-parity](https://github.com/avi629/leet_codes/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/avi629/leet_codes/tree/master/0908-smallest-range-i) |
+| [1122-relative-sort-array](https://github.com/avi629/leet_codes/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/avi629/leet_codes/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/avi629/leet_codes/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/avi629/leet_codes/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/avi629/leet_codes/tree/master/0217-contains-duplicate) |
 | [0575-distribute-candies](https://github.com/avi629/leet_codes/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/avi629/leet_codes/tree/master/0771-jewels-and-stones) |
+| [1122-relative-sort-array](https://github.com/avi629/leet_codes/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/avi629/leet_codes/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/avi629/leet_codes/tree/master/1331-rank-transform-of-an-array) |
 | [1399-count-largest-group](https://github.com/avi629/leet_codes/tree/master/1399-count-largest-group) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/avi629/leet_codes/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/avi629/leet_codes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/avi629/leet_codes/tree/master/0905-sort-array-by-parity) |
+| [1122-relative-sort-array](https://github.com/avi629/leet_codes/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/avi629/leet_codes/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/avi629/leet_codes/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/avi629/leet_codes/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -260,4 +263,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/avi629/leet_codes/tree/master/0202-happy-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/avi629/leet_codes/tree/master/1122-relative-sort-array) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/avi629/leet_codes/tree/master/1122-relative-sort-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/avi629/leet_codes/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->

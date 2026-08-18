@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/avi629/leet_codes/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/avi629/leet_codes/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/avi629/leet_codes/tree/master/3024-type-of-triangle) |
+| [3467-transform-array-by-parity](https://github.com/avi629/leet_codes/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/avi629/leet_codes/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/avi629/leet_codes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/avi629/leet_codes/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/avi629/leet_codes/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/avi629/leet_codes/tree/master/3024-type-of-triangle) |
+| [3467-transform-array-by-parity](https://github.com/avi629/leet_codes/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/avi629/leet_codes/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/avi629/leet_codes/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/avi629/leet_codes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/avi629/leet_codes/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/avi629/leet_codes/tree/master/1748-sum-of-unique-elements) |
 | [2351-first-letter-to-appear-twice](https://github.com/avi629/leet_codes/tree/master/2351-first-letter-to-appear-twice) |
+| [3467-transform-array-by-parity](https://github.com/avi629/leet_codes/tree/master/3467-transform-array-by-parity) |
 ## Prefix Sum
 |  |
 | ------- |

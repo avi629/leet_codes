@@ -19,5 +19,14 @@ class Solution(object):
             if nums[i] != val:
                 nums[k] = nums[i]
                 k += 1
-        return k 
+        return k
         
+##########################################
+        # res = []
+        # for i in range(len(nums)):
+        #     if nums[i] == val:
+        #         continue
+        #     else:
+        #         res.append(nums[i])
+
+        # return res

@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/avi629/leet_codes/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/avi629/leet_codes/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/avi629/leet_codes/tree/master/1331-rank-transform-of-an-array) |
+| [1436-destination-city](https://github.com/avi629/leet_codes/tree/master/1436-destination-city) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/avi629/leet_codes/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/avi629/leet_codes/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/avi629/leet_codes/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/avi629/leet_codes/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/avi629/leet_codes/tree/master/1331-rank-transform-of-an-array) |
 | [1399-count-largest-group](https://github.com/avi629/leet_codes/tree/master/1399-count-largest-group) |
+| [1436-destination-city](https://github.com/avi629/leet_codes/tree/master/1436-destination-city) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/avi629/leet_codes/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/avi629/leet_codes/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/avi629/leet_codes/tree/master/1748-sum-of-unique-elements) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/avi629/leet_codes/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1154-day-of-the-year](https://github.com/avi629/leet_codes/tree/master/1154-day-of-the-year) |
 | [1332-remove-palindromic-subsequences](https://github.com/avi629/leet_codes/tree/master/1332-remove-palindromic-subsequences) |
+| [1436-destination-city](https://github.com/avi629/leet_codes/tree/master/1436-destination-city) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/avi629/leet_codes/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/avi629/leet_codes/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/avi629/leet_codes/tree/master/1859-sorting-the-sentence) |

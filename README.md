@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1154-day-of-the-year](https://github.com/avi629/leet_codes/tree/master/1154-day-of-the-year) |
 | [1332-remove-palindromic-subsequences](https://github.com/avi629/leet_codes/tree/master/1332-remove-palindromic-subsequences) |
 | [1436-destination-city](https://github.com/avi629/leet_codes/tree/master/1436-destination-city) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/avi629/leet_codes/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/avi629/leet_codes/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/avi629/leet_codes/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/avi629/leet_codes/tree/master/1859-sorting-the-sentence) |
@@ -295,4 +296,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/avi629/leet_codes/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/avi629/leet_codes/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/avi629/leet_codes/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->

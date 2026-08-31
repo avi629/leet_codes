@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/avi629/leet_codes/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/avi629/leet_codes/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/avi629/leet_codes/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/avi629/leet_codes/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/avi629/leet_codes/tree/master/0238-product-of-array-except-self) |
 | [0575-distribute-candies](https://github.com/avi629/leet_codes/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/avi629/leet_codes/tree/master/0628-maximum-product-of-three-numbers) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/avi629/leet_codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/avi629/leet_codes/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/avi629/leet_codes/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/avi629/leet_codes/tree/master/0219-contains-duplicate-ii) |
 | [0575-distribute-candies](https://github.com/avi629/leet_codes/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/avi629/leet_codes/tree/master/0771-jewels-and-stones) |
 | [1122-relative-sort-array](https://github.com/avi629/leet_codes/tree/master/1122-relative-sort-array) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/avi629/leet_codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/avi629/leet_codes/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/avi629/leet_codes/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/avi629/leet_codes/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/avi629/leet_codes/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/avi629/leet_codes/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |

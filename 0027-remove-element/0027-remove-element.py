@@ -5,6 +5,16 @@ class Solution(object):
         :type val: int
         :rtype: int
         """
+        left = 0
+        for right in range(len(nums)):
+            if nums[right] != val:
+                nums[left] = nums[right]
+                left += 1
+        
+        return left
+
+
+
         # k = 0
         # for i in range(len(nums)):
         #     if nums[i] != val:
@@ -14,12 +24,12 @@ class Solution(object):
 
 ########################################
 
-        k = 0
-        for i in range(len(nums)):
-            if nums[i] != val:
-                nums[k] = nums[i]
-                k += 1
-        return k
+        # k = 0
+        # for i in range(len(nums)):
+        #     if nums[i] != val:
+        #         nums[k] = nums[i]
+        #         k += 1
+        # return k
         
 ##########################################
         # res = []

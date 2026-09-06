@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/avi629/leet_codes/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/avi629/leet_codes/tree/master/0344-reverse-string) |
 | [0771-jewels-and-stones](https://github.com/avi629/leet_codes/tree/master/0771-jewels-and-stones) |
+| [0844-backspace-string-compare](https://github.com/avi629/leet_codes/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/avi629/leet_codes/tree/master/1021-remove-outermost-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/avi629/leet_codes/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/avi629/leet_codes/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/avi629/leet_codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/avi629/leet_codes/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/avi629/leet_codes/tree/master/0344-reverse-string) |
+| [0844-backspace-string-compare](https://github.com/avi629/leet_codes/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/avi629/leet_codes/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/avi629/leet_codes/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/avi629/leet_codes/tree/master/0905-sort-array-by-parity) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/avi629/leet_codes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0682-baseball-game](https://github.com/avi629/leet_codes/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/avi629/leet_codes/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/avi629/leet_codes/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/avi629/leet_codes/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/avi629/leet_codes/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/avi629/leet_codes/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/avi629/leet_codes/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/avi629/leet_codes/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/avi629/leet_codes/tree/master/0844-backspace-string-compare) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/avi629/leet_codes/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2739-total-distance-traveled](https://github.com/avi629/leet_codes/tree/master/2739-total-distance-traveled) |
 | [2974-minimum-number-game](https://github.com/avi629/leet_codes/tree/master/2974-minimum-number-game) |

@@ -5,44 +5,69 @@ class Solution(object):
         :type t: str
         :rtype: bool
         """
-        i = len(s)- 1
-        j = len(t)- 1 
-        skip_s = 0
-        skip_t = 0
+        # using stack
+        stack1 = []
+        stack2 = []
 
-        while i >= 0 or j >= 0:
+        for char in s:
+            if char == '#':
+                if stack1:
+                    stack1.pop()
+            else:
+                stack1.append(char)
+        
+        for char in t:
+            if char == '#':
+                if stack2:
+                    stack2.pop()
+            else:
+                stack2.append(char)
+        
+        if stack1 == stack2:
+            return True
+        else:
+            return False
 
-            # Find next valid character in s
-            while i >= 0:
-                if s[i] == '#':
-                    skip_s += 1
-                    i -= 1
-                elif skip_s > 0:
-                    skip_s -= 1
-                    i -= 1
-                else:
-                    break
-            # Find next valid character in t
-            while j >= 0:
-                if t[j] == '#':
-                    skip_t += 1
-                    j -= 1
-                elif skip_t > 0:
-                    skip_t -= 1
-                    j -= 1
-                else:
-                    break
+##################################################
 
-            # Compare valid characters
-            if i >= 0 and j >= 0:
-                if s[i] != t[j]:
-                    return False
+        # i = len(s)- 1
+        # j = len(t)- 1 
+        # skip_s = 0
+        # skip_t = 0
 
-            # One string has a character but the other doesn't
-            elif i >= 0 or j >= 0:
-                return False
+        # while i >= 0 or j >= 0:
 
-            i -= 1
-            j -= 1
+        #     # Find next valid character in s
+        #     while i >= 0:
+        #         if s[i] == '#':
+        #             skip_s += 1
+        #             i -= 1
+        #         elif skip_s > 0:
+        #             skip_s -= 1
+        #             i -= 1
+        #         else:
+        #             break
+        #     # Find next valid character in t
+        #     while j >= 0:
+        #         if t[j] == '#':
+        #             skip_t += 1
+        #             j -= 1
+        #         elif skip_t > 0:
+        #             skip_t -= 1
+        #             j -= 1
+        #         else:
+        #             break
 
-        return True
+        #     # Compare valid characters
+        #     if i >= 0 and j >= 0:
+        #         if s[i] != t[j]:
+        #             return False
+
+        #     # One string has a character but the other doesn't
+        #     elif i >= 0 or j >= 0:
+        #         return False
+
+        #     i -= 1
+        #     j -= 1
+
+        # return True

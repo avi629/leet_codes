@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/avi629/leet_codes/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/avi629/leet_codes/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/avi629/leet_codes/tree/master/0238-product-of-array-except-self) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/avi629/leet_codes/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0575-distribute-candies](https://github.com/avi629/leet_codes/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/avi629/leet_codes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/avi629/leet_codes/tree/master/0643-maximum-average-subarray-i) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/avi629/leet_codes/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/avi629/leet_codes/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/avi629/leet_codes/tree/master/0219-contains-duplicate-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/avi629/leet_codes/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0575-distribute-candies](https://github.com/avi629/leet_codes/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/avi629/leet_codes/tree/master/0771-jewels-and-stones) |
 | [1122-relative-sort-array](https://github.com/avi629/leet_codes/tree/master/1122-relative-sort-array) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/avi629/leet_codes/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/avi629/leet_codes/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/avi629/leet_codes/tree/master/0345-reverse-vowels-of-a-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/avi629/leet_codes/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0844-backspace-string-compare](https://github.com/avi629/leet_codes/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/avi629/leet_codes/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/avi629/leet_codes/tree/master/0881-boats-to-save-people) |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/avi629/leet_codes/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/avi629/leet_codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/avi629/leet_codes/tree/master/0209-minimum-size-subarray-sum) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/avi629/leet_codes/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/avi629/leet_codes/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
@@ -189,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/avi629/leet_codes/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/avi629/leet_codes/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/avi629/leet_codes/tree/master/0217-contains-duplicate) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/avi629/leet_codes/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/avi629/leet_codes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/avi629/leet_codes/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/avi629/leet_codes/tree/master/0905-sort-array-by-parity) |

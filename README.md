@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/avi629/leet_codes/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/avi629/leet_codes/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/avi629/leet_codes/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/avi629/leet_codes/tree/master/0345-reverse-vowels-of-a-string) |
 | [0771-jewels-and-stones](https://github.com/avi629/leet_codes/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/avi629/leet_codes/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/avi629/leet_codes/tree/master/1021-remove-outermost-parentheses) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/avi629/leet_codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/avi629/leet_codes/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/avi629/leet_codes/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/avi629/leet_codes/tree/master/0345-reverse-vowels-of-a-string) |
 | [0844-backspace-string-compare](https://github.com/avi629/leet_codes/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/avi629/leet_codes/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/avi629/leet_codes/tree/master/0881-boats-to-save-people) |

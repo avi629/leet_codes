@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/avi629/leet_codes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/avi629/leet_codes/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/avi629/leet_codes/tree/master/0682-baseball-game) |
+| [0832-flipping-an-image](https://github.com/avi629/leet_codes/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/avi629/leet_codes/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/avi629/leet_codes/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/avi629/leet_codes/tree/master/0908-smallest-range-i) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/avi629/leet_codes/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/avi629/leet_codes/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/avi629/leet_codes/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0832-flipping-an-image](https://github.com/avi629/leet_codes/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/avi629/leet_codes/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/avi629/leet_codes/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/avi629/leet_codes/tree/master/0881-boats-to-save-people) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/avi629/leet_codes/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/avi629/leet_codes/tree/master/0231-power-of-two) |
+| [0832-flipping-an-image](https://github.com/avi629/leet_codes/tree/master/0832-flipping-an-image) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/avi629/leet_codes/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/avi629/leet_codes/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2351-first-letter-to-appear-twice](https://github.com/avi629/leet_codes/tree/master/2351-first-letter-to-appear-twice) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/avi629/leet_codes/tree/master/0048-rotate-image) |
+| [0832-flipping-an-image](https://github.com/avi629/leet_codes/tree/master/0832-flipping-an-image) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/avi629/leet_codes/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Stack
 |  |
@@ -260,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/avi629/leet_codes/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/avi629/leet_codes/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/avi629/leet_codes/tree/master/0682-baseball-game) |
+| [0832-flipping-an-image](https://github.com/avi629/leet_codes/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/avi629/leet_codes/tree/master/0844-backspace-string-compare) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/avi629/leet_codes/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2739-total-distance-traveled](https://github.com/avi629/leet_codes/tree/master/2739-total-distance-traveled) |

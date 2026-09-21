@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/avi629/leet_codes/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1652-defuse-the-bomb](https://github.com/avi629/leet_codes/tree/master/1652-defuse-the-bomb) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/avi629/leet_codes/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/avi629/leet_codes/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1748-sum-of-unique-elements](https://github.com/avi629/leet_codes/tree/master/1748-sum-of-unique-elements) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/avi629/leet_codes/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/avi629/leet_codes/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/avi629/leet_codes/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/avi629/leet_codes/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/avi629/leet_codes/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/avi629/leet_codes/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2000-reverse-prefix-of-word](https://github.com/avi629/leet_codes/tree/master/2000-reverse-prefix-of-word) |
 ## Monotonic Stack
 |  |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/avi629/leet_codes/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/avi629/leet_codes/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/avi629/leet_codes/tree/master/0844-backspace-string-compare) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/avi629/leet_codes/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/avi629/leet_codes/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2739-total-distance-traveled](https://github.com/avi629/leet_codes/tree/master/2739-total-distance-traveled) |
 | [2974-minimum-number-game](https://github.com/avi629/leet_codes/tree/master/2974-minimum-number-game) |
@@ -404,4 +407,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/avi629/leet_codes/tree/master/0155-min-stack) |
+## Queue
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/avi629/leet_codes/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->

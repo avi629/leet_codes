@@ -7,10 +7,23 @@ class Solution(object):
         def is_palindrome(x):
             rev = x[::-1]
             return x == rev
-        
+
         if s == "":
             return 0
         elif is_palindrome(s):
             return 1
         else:
             return 2
+
+
+  ##################################################      
+        # def is_palindrome(x):
+        #     rev = x[::-1]
+        #     return x == rev
+        
+        # if s == "":
+        #     return 0
+        # elif is_palindrome(s):
+        #     return 1
+        # else:
+        #     return 2 

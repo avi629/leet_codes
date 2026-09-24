@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2103-rings-and-rods](https://github.com/avi629/leet_codes/tree/master/2103-rings-and-rods) |
 | [2351-first-letter-to-appear-twice](https://github.com/avi629/leet_codes/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/avi629/leet_codes/tree/master/2418-sort-the-people) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/avi629/leet_codes/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/avi629/leet_codes/tree/master/3498-reverse-degree-of-a-string) |
 ## Two Pointers
 |  |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/avi629/leet_codes/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/avi629/leet_codes/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2000-reverse-prefix-of-word](https://github.com/avi629/leet_codes/tree/master/2000-reverse-prefix-of-word) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/avi629/leet_codes/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/avi629/leet_codes/tree/master/0844-backspace-string-compare) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/avi629/leet_codes/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/avi629/leet_codes/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/avi629/leet_codes/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2739-total-distance-traveled](https://github.com/avi629/leet_codes/tree/master/2739-total-distance-traveled) |
 | [2974-minimum-number-game](https://github.com/avi629/leet_codes/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/avi629/leet_codes/tree/master/3069-distribute-elements-into-two-arrays-i) |

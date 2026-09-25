@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/avi629/leet_codes/tree/master/0238-product-of-array-except-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/avi629/leet_codes/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/avi629/leet_codes/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/avi629/leet_codes/tree/master/0503-next-greater-element-ii) |
 | [0575-distribute-candies](https://github.com/avi629/leet_codes/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/avi629/leet_codes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/avi629/leet_codes/tree/master/0643-maximum-average-subarray-i) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/avi629/leet_codes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/avi629/leet_codes/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/avi629/leet_codes/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/avi629/leet_codes/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/avi629/leet_codes/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/avi629/leet_codes/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/avi629/leet_codes/tree/master/0844-backspace-string-compare) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/avi629/leet_codes/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/avi629/leet_codes/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/avi629/leet_codes/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/avi629/leet_codes/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/avi629/leet_codes/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/avi629/leet_codes/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |

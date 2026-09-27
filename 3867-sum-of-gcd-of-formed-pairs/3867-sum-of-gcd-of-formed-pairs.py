@@ -8,6 +8,7 @@ class Solution(object):
             while b:
                 a, b = b, a % b
             return a
+            
         mxi = 0
         prefixGcd= []
         n = len(nums)
@@ -15,9 +16,9 @@ class Solution(object):
             mxi = max(mxi, nums[i])
             prefixGcd.append(gcd(nums[i], mxi))
 
-        list1 = sorted(prefixGcd)
+        list1 = sorted(prefixGcd)   
 
-        low = 0
+        low = 0                 # two pointer
         high = n-1
         ans = 0
         while (low < high):

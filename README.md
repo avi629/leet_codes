@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/avi629/leet_codes/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/avi629/leet_codes/tree/master/0908-smallest-range-i) |
 | [0942-di-string-match](https://github.com/avi629/leet_codes/tree/master/0942-di-string-match) |
+| [1019-next-greater-node-in-linked-list](https://github.com/avi629/leet_codes/tree/master/1019-next-greater-node-in-linked-list) |
 | [1089-duplicate-zeros](https://github.com/avi629/leet_codes/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/avi629/leet_codes/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/avi629/leet_codes/tree/master/1207-unique-number-of-occurrences) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/avi629/leet_codes/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/avi629/leet_codes/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/avi629/leet_codes/tree/master/0901-online-stock-span) |
+| [1019-next-greater-node-in-linked-list](https://github.com/avi629/leet_codes/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/avi629/leet_codes/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/avi629/leet_codes/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/avi629/leet_codes/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/avi629/leet_codes/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/avi629/leet_codes/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/avi629/leet_codes/tree/master/0901-online-stock-span) |
+| [1019-next-greater-node-in-linked-list](https://github.com/avi629/leet_codes/tree/master/1019-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/avi629/leet_codes/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/avi629/leet_codes/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Recursion
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/avi629/leet_codes/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/avi629/leet_codes/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0876-middle-of-the-linked-list](https://github.com/avi629/leet_codes/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/avi629/leet_codes/tree/master/1019-next-greater-node-in-linked-list) |
 ## Greedy
 |  |
 | ------- |

@@ -439,4 +439,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/avi629/leet_codes/tree/master/0901-online-stock-span) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/avi629/leet_codes/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

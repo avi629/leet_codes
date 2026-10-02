@@ -6,14 +6,29 @@ class Solution(object):
         :rtype: List[int]
         """
         left = 0
-        right = len(numbers) -1
+        right = len(numbers) - 1
 
         while left < right:
-            curr_sum = numbers[left] + numbers[right]
+            total = numbers[left] + numbers[right]
 
-            if curr_sum < target:
+            if total == target:
+                return [left + 1, right + 1]
+            elif total < target:
                 left += 1
-            elif curr_sum > target:
-                right -= 1
             else:
-                return [left+1 , right+1]
+                right -= 1
+
+###############################################
+
+        # left = 0
+        # right = len(numbers) -1
+
+        # while left < right:
+        #     curr_sum = numbers[left] + numbers[right]
+
+        #     if curr_sum < target:
+        #         left += 1
+        #     elif curr_sum > target:
+        #         right -= 1
+        #     else:
+        #         return [left+1 , right+1]

@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/avi629/leet_codes/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/avi629/leet_codes/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/avi629/leet_codes/tree/master/0739-daily-temperatures) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/avi629/leet_codes/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0832-flipping-an-image](https://github.com/avi629/leet_codes/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/avi629/leet_codes/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/avi629/leet_codes/tree/master/0905-sort-array-by-parity) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/avi629/leet_codes/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/avi629/leet_codes/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/avi629/leet_codes/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/avi629/leet_codes/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/avi629/leet_codes/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |

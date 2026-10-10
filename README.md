@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/avi629/leet_codes/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/avi629/leet_codes/tree/master/0908-smallest-range-i) |
 | [0942-di-string-match](https://github.com/avi629/leet_codes/tree/master/0942-di-string-match) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/avi629/leet_codes/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/avi629/leet_codes/tree/master/1019-next-greater-node-in-linked-list) |
 | [1089-duplicate-zeros](https://github.com/avi629/leet_codes/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/avi629/leet_codes/tree/master/1122-relative-sort-array) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/avi629/leet_codes/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/avi629/leet_codes/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/avi629/leet_codes/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/avi629/leet_codes/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/avi629/leet_codes/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |

@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/avi629/leet_codes/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/avi629/leet_codes/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/avi629/leet_codes/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/avi629/leet_codes/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/avi629/leet_codes/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/avi629/leet_codes/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/avi629/leet_codes/tree/master/0540-single-element-in-a-sorted-array) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/avi629/leet_codes/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/avi629/leet_codes/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/avi629/leet_codes/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/avi629/leet_codes/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/avi629/leet_codes/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/avi629/leet_codes/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/avi629/leet_codes/tree/master/0704-binary-search) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/avi629/leet_codes/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/avi629/leet_codes/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/avi629/leet_codes/tree/master/0070-climbing-stairs) |
+| [0410-split-array-largest-sum](https://github.com/avi629/leet_codes/tree/master/0410-split-array-largest-sum) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/avi629/leet_codes/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Bit Manipulation
 |  |
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/avi629/leet_codes/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/avi629/leet_codes/tree/master/0055-jump-game) |
+| [0410-split-array-largest-sum](https://github.com/avi629/leet_codes/tree/master/0410-split-array-largest-sum) |
 | [0881-boats-to-save-people](https://github.com/avi629/leet_codes/tree/master/0881-boats-to-save-people) |
 | [0942-di-string-match](https://github.com/avi629/leet_codes/tree/master/0942-di-string-match) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/avi629/leet_codes/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -409,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/avi629/leet_codes/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/avi629/leet_codes/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/avi629/leet_codes/tree/master/0410-split-array-largest-sum) |
 | [2485-find-the-pivot-integer](https://github.com/avi629/leet_codes/tree/master/2485-find-the-pivot-integer) |
 ## Floyd's Cycle Finding Algorithm
 |  |

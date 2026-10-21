@@ -9,6 +9,18 @@ class Solution(object):
         :type head: Optional[ListNode]
         :rtype: Optional[ListNode]
         """
+        current= head
+        while current and current.next:
+            if current.val == current.next.val:
+                current.next = current.next.next
+            else:
+                current = current.next
+        
+        return head
+
+
+###################################################
+
         # curr = head
         # while curr and curr.next:
             
@@ -20,12 +32,12 @@ class Solution(object):
         # return head
 
 #############################
-        curr = head
-        while curr and curr.next:
-            if curr.val == curr.next.val:
-                curr.next = curr.next.next
-            else:
-                curr = curr.next
+        # curr = head
+        # while curr and curr.next:
+        #     if curr.val == curr.next.val:
+        #         curr.next = curr.next.next
+        #     else:
+        #         curr = curr.next
         
-        return head
+        # return head
         

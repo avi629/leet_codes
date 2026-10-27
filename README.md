@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/avi629/leet_codes/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/avi629/leet_codes/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/avi629/leet_codes/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/avi629/leet_codes/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/avi629/leet_codes/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/avi629/leet_codes/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/avi629/leet_codes/tree/master/0410-split-array-largest-sum) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/avi629/leet_codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/avi629/leet_codes/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/avi629/leet_codes/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/avi629/leet_codes/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/avi629/leet_codes/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/avi629/leet_codes/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/avi629/leet_codes/tree/master/0349-intersection-of-two-arrays) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/avi629/leet_codes/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/avi629/leet_codes/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/avi629/leet_codes/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/avi629/leet_codes/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/avi629/leet_codes/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/avi629/leet_codes/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/avi629/leet_codes/tree/master/0367-valid-perfect-square) |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/avi629/leet_codes/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/avi629/leet_codes/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/avi629/leet_codes/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/avi629/leet_codes/tree/master/0287-find-the-duplicate-number) |
 | [0832-flipping-an-image](https://github.com/avi629/leet_codes/tree/master/0832-flipping-an-image) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/avi629/leet_codes/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/avi629/leet_codes/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -434,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/avi629/leet_codes/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/avi629/leet_codes/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/avi629/leet_codes/tree/master/0287-find-the-duplicate-number) |
 ## Counting Sort
 |  |
 | ------- |
@@ -506,4 +511,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/avi629/leet_codes/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/avi629/leet_codes/tree/master/0374-guess-number-higher-or-lower) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/avi629/leet_codes/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->

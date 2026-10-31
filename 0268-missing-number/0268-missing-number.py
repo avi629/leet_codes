@@ -4,6 +4,15 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
+        # n = len(nums)
+        # expected_sum = n * (n + 1) // 2
+        # actual_sum = sum(nums)
+
+        # missing = expected_sum - actual_sum
+
+        # return missing
+
+###################################
         n = len(nums)
         expected_sum = n * (n + 1) // 2
         actual_sum = sum(nums)
@@ -11,6 +20,7 @@ class Solution(object):
         missing = expected_sum - actual_sum
 
         return missing
+
 
 
 ##############################################

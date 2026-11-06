@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/avi629/leet_codes/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/avi629/leet_codes/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/avi629/leet_codes/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/avi629/leet_codes/tree/master/0392-is-subsequence) |
 | [0771-jewels-and-stones](https://github.com/avi629/leet_codes/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/avi629/leet_codes/tree/master/0844-backspace-string-compare) |
 | [0942-di-string-match](https://github.com/avi629/leet_codes/tree/master/0942-di-string-match) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/avi629/leet_codes/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/avi629/leet_codes/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/avi629/leet_codes/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/avi629/leet_codes/tree/master/0392-is-subsequence) |
 | [0832-flipping-an-image](https://github.com/avi629/leet_codes/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/avi629/leet_codes/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/avi629/leet_codes/tree/master/0876-middle-of-the-linked-list) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/avi629/leet_codes/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/avi629/leet_codes/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/avi629/leet_codes/tree/master/0070-climbing-stairs) |
+| [0392-is-subsequence](https://github.com/avi629/leet_codes/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/avi629/leet_codes/tree/master/0410-split-array-largest-sum) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/avi629/leet_codes/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Bit Manipulation

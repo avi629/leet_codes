@@ -4,19 +4,35 @@ class Solution(object):
         :type nums: List[int]
         :rtype: None Do not return anything, modify nums in-place instead.
         """
+        # left = 0
+        # current = 0
+        # right = len(nums) - 1
+
+        # while current <= right:
+        #     if nums[current] == 0:
+        #         nums[left], nums[current] = nums[current], nums[left]
+        #         left += 1
+        #         current += 1
+
+        #     elif nums[current] == 1:
+        #         current += 1
+        #     else:        #nums[current] == 2:
+        #         nums[right], nums[current] = nums[current], nums[right] 
+        #         right -= 1
+                
+########################################
         left = 0
         current = 0
         right = len(nums) - 1
 
         while current <= right:
             if nums[current] == 0:
-                nums[left], nums[current] = nums[current], nums[left]
+                nums[left] , nums[current] = nums[current] , nums[left]
                 left += 1
                 current += 1
 
             elif nums[current] == 1:
                 current += 1
-            else:        #nums[current] == 2:
-                nums[right], nums[current] = nums[current], nums[right] 
+            else:
+                nums[right] , nums[current] = nums[current] , nums[right]
                 right -= 1
-                

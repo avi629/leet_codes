@@ -5,6 +5,20 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
+        # left = 0
+        # right = len(numbers) - 1
+
+        # while left < right:
+        #     total = numbers[left] + numbers[right]
+
+        #     if total == target:
+        #         return [left + 1, right + 1]
+        #     elif total < target:
+        #         left += 1
+        #     else:
+        #         right -= 1
+
+##########################################################
         left = 0
         right = len(numbers) - 1
 
@@ -12,7 +26,7 @@ class Solution(object):
             total = numbers[left] + numbers[right]
 
             if total == target:
-                return [left + 1, right + 1]
+                return [left + 1 , right + 1]
             elif total < target:
                 left += 1
             else:

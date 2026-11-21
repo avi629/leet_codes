@@ -5,6 +5,23 @@ class Solution(object):
         :type limit: int
         :rtype: int
         """
+        # people.sort()
+        # left = 0
+        # right = len(people) - 1
+        # boats = 0
+
+        # while left <= right:
+        #     if people[left] + people[right] <= limit:
+        #         left += 1
+        #         right -= 1
+        #     else:
+        #         right -= 1
+            
+        #     boats += 1
+
+        # return boats
+
+###########################################################
         people.sort()
         left = 0
         right = len(people) - 1
@@ -16,9 +33,8 @@ class Solution(object):
                 right -= 1
             else:
                 right -= 1
-            
-            boats += 1
 
+            boats += 1
         return boats
 
 

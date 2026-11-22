@@ -4,6 +4,26 @@ class Solution(object):
         :type s: str
         :rtype: bool
         """
+        # stack = []
+        # for char in s:
+        #     if char == '(':
+        #         stack.append(')')
+        #     elif char == '[':
+        #         stack.append(']')
+        #     elif char == '{':
+        #         stack.append('}')
+        #     else:
+        #         if not stack:
+        #             return False
+
+        #         if char != stack[-1]:
+        #             return False
+                    
+        #         stack.pop()
+
+        # return len(stack) == 0
+
+#########################################################
         stack = []
         for char in s:
             if char == '(':
@@ -18,13 +38,10 @@ class Solution(object):
 
                 if char != stack[-1]:
                     return False
-                    
+                
                 stack.pop()
-
+        
         return len(stack) == 0
-
-
-
 
 
 

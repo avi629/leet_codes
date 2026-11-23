@@ -5,22 +5,40 @@ class Solution(object):
         :type nums2: List[int]
         :rtype: List[int]
         """
+        # stack = []
+        # next_greater = {}
+
+        # for num in nums2:
+        #     while stack and num > stack[-1]:
+        #         next_greater[stack.pop()] = num
+        
+        #     stack.append(num)
+        
+        # while stack:
+        #     next_greater[stack.pop()]= -1
+        
+        # ans = []
+        # for num in nums1:
+        #     ans.append(next_greater[num])
+        
+        # return ans
+
+################################################3
         stack = []
         next_greater = {}
-
         for num in nums2:
             while stack and num > stack[-1]:
                 next_greater[stack.pop()] = num
-        
+
             stack.append(num)
-        
+
         while stack:
-            next_greater[stack.pop()]= -1
-        
+            next_greater[stack.pop()] = -1
+
         ans = []
         for num in nums1:
             ans.append(next_greater[num])
-        
+
         return ans
 
 

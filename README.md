@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/avi629/leet_codes/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/avi629/leet_codes/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/avi629/leet_codes/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/avi629/leet_codes/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/avi629/leet_codes/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/avi629/leet_codes/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/avi629/leet_codes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/avi629/leet_codes/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/avi629/leet_codes/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/avi629/leet_codes/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/avi629/leet_codes/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/avi629/leet_codes/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/avi629/leet_codes/tree/master/0070-climbing-stairs) |
